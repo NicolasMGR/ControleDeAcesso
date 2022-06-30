@@ -1,0 +1,11 @@
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\bin\Debug\ControleDeAcesso.exe.config
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\bin\Debug\ControleDeAcesso.exe
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\bin\Debug\ControleDeAcesso.pdb
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.csproj.AssemblyReference.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.Form1.resources
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.Properties.Resources.resources
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.csproj.GenerateResource.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.exe
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\ControleDeAcesso\ControleDeAcesso\obj\Debug\ControleDeAcesso.pdb
